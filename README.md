@@ -6,9 +6,11 @@
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px">
   
+  <img src="https://github.com/Bunny-1432/Bunny-1432/assets/123456789/profile-photo.jpg" width="200" height="200" alt="Bunny Yadav" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 20px rgba(0, 247, 255, 0.5); margin: 20px 0;">
+  
   # I'm Bunny Yadav
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Healthcare+AI+Specialist;Full+Stack+Developer;Data+Science+Enthusiast;Deep+Learning+Practitioner;Tech+Innovator)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Healthcare+AI+Specialist;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate AI/ML Engineer** and **Full Stack Developer** specializing in building intelligent systems for **healthcare, finance, and audio processing**. I combine deep learning expertise with full-stack development to create end-to-end applications that solve real-world problems. My work spans from machine learning model development to deploying production-ready applications with modern tech stacks.
+I'm a **passionate AI/ML Engineer** and **Full Stack Developer** specializing in building intelligent systems for **healthcare, finance, and audio processing**. I combine deep learning expertise with full-stack development to create end-to-end solutions that make a real impact.
 
 ### ✨ Key Strengths
 
@@ -220,9 +222,10 @@ I'm a **passionate AI/ML Engineer** and **Full Stack Developer** specializing in
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunny-yadav-1a86b32a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/Bunny-1432)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Bunny-1432)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunny-yadav-1a86b32a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bunny-1432)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Bunny-1432)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BunnyYadav1432)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bunny.yadav)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybunny500@gmail.com)
 
