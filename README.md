@@ -9,78 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px" alt="wave">
   
   <br><br>
-  
-  <!-- Animated Glowing Profile Picture -->
-  <div style="position: relative; display: inline-block;">
-    <img src="https://avatars.githubusercontent.com/u/207431076?s=400&u=8662f9c8af0485a477049234f5fba247775c8c15&v=4" 
-         alt="Bunny Yadav" 
-         width="240" 
-         height="240" 
-         style="border-radius: 50%; border: 4px solid #00F7FF; box-shadow: 0 0 30px rgba(0, 247, 255, 0.8), 0 0 60px rgba(0, 255, 136, 0.4); animation: glow 3s ease-in-out infinite, float 4s ease-in-out infinite;">
-  </div>
-  
-  <style>
-    @keyframes glow {
-      0%, 100% { box-shadow: 0 0 30px rgba(0, 247, 255, 0.8), 0 0 60px rgba(0, 255, 136, 0.4); }
-      50% { box-shadow: 0 0 50px rgba(0, 247, 255, 1), 0 0 80px rgba(0, 255, 136, 0.6); }
-    }
-    
-    @keyframes float {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-20px); }
-    }
-    
-    @keyframes slideInDown {
-      from { opacity: 0; transform: translateY(-30px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    
-    @keyframes slideInUp {
-      from { opacity: 0; transform: translateY(30px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    
-    @keyframes gradientShift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    
-    .animated-title {
-      animation: slideInDown 0.8s ease-out;
-      background: linear-gradient(45deg, #00F7FF, #00FF88, #00F7FF);
-      background-size: 200% 200%;
-      animation: slideInDown 0.8s ease-out, gradientShift 4s ease infinite;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      font-size: 3.5em;
-      font-weight: 900;
-      margin: 20px 0;
-      letter-spacing: 2px;
-    }
-    
-    .role-badge {
-      display: inline-block;
-      padding: 8px 16px;
-      margin: 5px;
-      border-radius: 20px;
-      font-weight: 600;
-      font-size: 0.95em;
-      animation: slideInUp 0.6s ease-out;
-    }
-    
-    .role-ai { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
-    .role-ml { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; }
-    .role-dev { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; }
-    .role-builder { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; }
-  </style>
-  
+
   <div class="animated-title">💫 Bunny Yadav</div>
   
   <!-- Typing Animation -->
@@ -113,51 +42,6 @@
 I'm a **passionate AI/ML Engineer** and **Full Stack Developer** transforming complex problems into elegant, intelligent solutions. With expertise spanning **healthcare AI**, **financial ML**, and **audio processing**, I build production-grade systems that scale.
 
 **My Philosophy:** *Merge cutting-edge AI with clean architecture to create impact.*
-
-### ✨ Core Competencies
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
-
-**🤖 Deep Learning**
-- PyTorch, TensorFlow
-- CNN, LSTM, Transformers
-- Multi-modal systems
-
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; color: white;">
-
-**🏥 Healthcare AI**
-- Disease prediction (50+)
-- Medical imaging
-- SHAP explainability
-
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; color: white;">
-
-**💰 FinTech ML**
-- Credit risk scoring
-- Feature engineering
-- Model optimization
-
-</div>
-
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px; color: white;">
-
-**🎙️ Audio Processing**
-- Emotion recognition
-- Signal analysis
-- Real-time inference
-
-</div>
-
-</div>
-
-</div>
-
 ---
 
 ## 🏆 FEATURED PROJECTS
